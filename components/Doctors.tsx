@@ -33,7 +33,7 @@ export default function Doctors() {
               </h3>
               <p className="text-emerald-600 font-semibold text-lg mb-6"></p>
               <p className="text-gray-600 text-lg leading-relaxed mb-6">
-                Board-certified surgeon with over 15 years of experience.
+                Board-certified surgeon with over 30 years of experience.
                 Dedicated to providing comprehensive, compassionate healthcare
                 services to patients of all ages.
               </p>
